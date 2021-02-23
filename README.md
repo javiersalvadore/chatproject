@@ -1,6 +1,6 @@
 # chatproject
 
-chatproject is a Telegram chat data visualizer, which outputs graphs both in vector formats as in HTML files as to not lose pictographical quality.
+chatproject is a Telegram chat data visualizer, which outputs graphs both in vector formats and in HTML files as to not lose pictographical quality.
 
 ## Usage
 
